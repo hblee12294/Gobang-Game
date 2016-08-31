@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+
+# Folders
+bin/
+obj/
+
+# CodeBlocks
+*.layout
+*.depend
+*.cbp
