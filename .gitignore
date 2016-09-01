@@ -24,13 +24,12 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
 # Folders
-bin/
 obj/
+Debug/
 
 # CodeBlocks
 *.layout
